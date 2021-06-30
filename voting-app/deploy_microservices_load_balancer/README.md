@@ -1,2 +1,2 @@
 Added replicaset  
-The application can now b scaled up.
+The application can now be scaled up.
